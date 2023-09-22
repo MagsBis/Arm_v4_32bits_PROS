@@ -12,3 +12,8 @@
 │   ├── ``IFETCH/`` : fetch stage\
 │   ├── ``MEM/`` : memory access stage\
 │   └── ``TB/`` : CPU test files\
+
+#Tools
+- Compiler : [GHDL](https://github.com/ghdl/ghdl)
+- Wave viewer : [gtkwave](http://gtkwave.sourceforge.net/)
+- Logic synthetiser, automatic place and route : [Suite Alliance/Coriolis](http://coriolis.lip6.fr/) 
