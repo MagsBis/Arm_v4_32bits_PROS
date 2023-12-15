@@ -2,7 +2,7 @@
 
 # Project architecture :
 
-``Arm_v4_32bits_PROS ``\
+``Arm_v2A_32bits_PROC ``\
 ├── ``C_model/`` : libraries for ASM program execution developped by Jean-Lou Desbarbieux\
 ├── ``src/``\
 │   ├── ``CORE/`` : top level of the CPU\
